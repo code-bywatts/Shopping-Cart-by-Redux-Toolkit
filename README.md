@@ -1,4 +1,4 @@
-#Redux Toolkit Shopping Cart by VASU WATTS
+# Redux Toolkit Shopping Cart by VASU WATTS
 
 This project presents an implementation of a state-managed shopping cart system using Redux Toolkit within a React framework. It demonstrates modern approaches to global state management by leveraging Redux slices, reducers, and actions to achieve a scalable and maintainable architecture. The application enables users to explore a catalog of products, add or remove items from the cart, and dynamically update quantities, with all state transitions managed seamlessly through Redux’s centralized store.
 
